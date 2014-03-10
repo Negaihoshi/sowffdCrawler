@@ -2,7 +2,9 @@ sowffdCrawler
 =============
 
 #usage
-  Python sfaaGet.py
+
+    Python sfaaGet.py
 
 #Output
-  data.json
+
+    data.json
