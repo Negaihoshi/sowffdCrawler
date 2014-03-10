@@ -3,7 +3,7 @@ sowffdCrawler
 
 ##usage
 
-    Python sfaaGet.py
+    Python sowffdGet.py
 
 ##Output
 
