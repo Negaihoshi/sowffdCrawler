@@ -1,14 +1,19 @@
 sowffdCrawler
 =============
 
-##usage
+##Requirements
+
+    BeautifulSoup ver.4+
+
+##Usage
 
     Python sowffdGet.py
 
 ##Output
 
     data.json
-    
+    data2.json
+
 ##Data Sample
 
       {
